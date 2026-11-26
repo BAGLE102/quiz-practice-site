@@ -1,6 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
+import {createHash} from 'node:crypto';
 import {validateBank,validateState,emptyState,grade,shuffle,formatTime,keyOf,usesText} from '../assets/core.js';
 // Technical fixtures only. These are not PDF questions or legal claims.
 const fixture=()=>validateBank({id:'fixture',title:'自動測試用資料',questions:[{id:'q1',stem:'測試題幹',options:['A','B','C','D'],answer:2},{id:'q2',stem:'第二題',options:['A','B','C','D'],answer:0}]});
@@ -12,5 +13,15 @@ test('rejects corrupted backup instead of importing invalid session',()=>{assert
 test('formats durations above an hour',()=>{assert.equal(formatTime(3661),'01:01:01');assert.equal(formatTime(-1),'00:00:00');});
 test('reviewed text with source scans survives saved session restore',()=>{const raw=fixture();raw.questions[0].textVerified=true;raw.questions[0].questionImages=[{src:'assets/questions/chapter1/q001-question-1.jpg',width:1500,height:200}];raw.questions[1].questionImages=[{src:'assets/questions/chapter1/q002-question-1.jpg',width:1500,height:200}];const b=validateBank(raw),s=emptyState();s.session={id:'text-session',title:b.title,mode:'exam',questions:b.questions,answers:{},startedAt:100,submitted:false};const restored=validateState(JSON.parse(JSON.stringify(s)));assert.equal(usesText(restored.session.questions[0]),true);assert.equal(usesText(restored.session.questions[1]),false);assert.equal(restored.session.questions[0].questionImages.length,1);assert.throws(()=>validateBank({...raw,questions:[{...raw.questions[0],textVerified:'true'}]}));});
 test('first ten transcriptions keep source answers and cross-page content',()=>{const b=validateBank(JSON.parse(fs.readFileSync(new URL('../data/questions/chapter1.json',import.meta.url),'utf8')));assert.deepEqual(b.questions.slice(0,10).map(q=>q.answer),[0,1,2,2,0,2,2,0,1,2]);assert.equal(b.questions.slice(0,10).every(q=>q.textVerified&&q.questionImages.length&&q.explanationImages.length),true);assert.match(b.questions[7].options[1],/二十一人以下/);assert.match(b.questions[9].options[2],/會計師查核簽證/);assert.match(b.questions[9].explanation,/設立登記後三十日內/);});
+test('all 349 reviewed texts preserve the original answer and scan mapping',()=>{
+ const banks=['chapter1','chapter2','chapter3'].map(id=>JSON.parse(fs.readFileSync(new URL('../data/questions/'+id+'.json',import.meta.url),'utf8')));
+ assert.deepEqual(banks.map(b=>b.questions.length),[135,132,82]);
+ for(const b of banks)for(const q of validateBank(b).questions){assert.equal(q.textVerified,true);assert.equal(usesText(q),true);assert.ok(q.questionImages.length&&q.explanationImages.length);assert.doesNotMatch(q.stem,/^原書第/);assert.equal(q.options.some(o=>/^選擇 \([1-4]\)$/.test(o)),false);assert.equal(q.explanation.length>5,true);}
+ const mapping=banks.map(b=>[b.id,b.questions.map(q=>[q.id,q.number,q.answer,q.source,q.questionImages,q.explanationImages])]);
+ assert.equal(createHash('sha256').update(JSON.stringify(mapping)).digest('hex'),'ff55c268d826d65902fe97ebfa99d9d3e9e54cf9552bfd38fe849d42c48ee68f');
+ assert.match(banks[0].questions[134].explanation,/原始PDF於此截斷/);
+ assert.match(banks[1].questions[43].options[0],/二千萬元以下罰金/);
+ assert.match(banks[2].questions[75].options[0],/最高賣價與最低買價/);
+});
 test('rejects external or traversal image paths',()=>{const b=fixture();assert.throws(()=>validateBank({...b,questions:[{...b.questions[0],questionImages:[{src:'https://example.com/image.jpg',width:100,height:100}]}]}));assert.throws(()=>validateBank({...b,questions:[{...b.questions[0],questionImages:[{src:'assets/questions/../image.jpg',width:100,height:100}]}]}));});
 test('published banks have unique IDs, intact numbering and existing scan assets',()=>{const catalog=JSON.parse(fs.readFileSync(new URL('../data/catalog.json',import.meta.url),'utf8'));const seen=new Set();for(const entry of catalog.banks){const b=validateBank(JSON.parse(fs.readFileSync(new URL('../data/'+entry.path,import.meta.url),'utf8')));assert.equal(seen.has(b.id),false);seen.add(b.id);b.questions.forEach((q,i)=>{assert.equal(Number(q.number),i+1);for(const im of [...q.questionImages,...q.explanationImages]){assert.equal(fs.existsSync(new URL('../'+im.src,import.meta.url)),true);}});}});
