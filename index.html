@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#2563eb"><title>刷題小站</title><link rel="stylesheet" href="./assets/styles.css"><script type="module" src="./assets/app.js"></script></head>
+<body><a class="skip" href="#main">跳至主要內容</a>
+<header><div class="top"><a href="#" class="brand" id="brand"><span class="logo">Q</span><span>刷題小站<small>QUIZ PRACTICE</small></span></a><nav aria-label="主選單"><button data-nav="home">題庫首頁</button><button data-nav="bookmarks">收藏複習</button><button data-nav="history">測驗紀錄</button><button id="resume" hidden>繼續作答</button></nav><span class="local-badge">● 本機保存</span></div><div class="progress"><div id="progress"></div></div></header>
+<main id="main" tabindex="-1"><p class="loading">正在讀取題庫…</p></main>
+<footer><span>刷題小站 · 每次練習，多懂一點。</span><span>進度保存在此瀏覽器</span></footer>
+<div id="toast" role="status" aria-live="polite"></div>
+<dialog id="confirm"><form method="dialog"><h2 id="confirm-title">確認操作</h2><p id="confirm-text"></p><div class="actions"><button value="cancel">取消</button><button class="primary" value="ok">確定</button></div></form></dialog>
+<dialog id="result"><div id="result-body"></div><div class="actions"><button id="result-review">檢視解析</button><button id="result-retry" class="primary">重練錯題</button></div></dialog>
+<dialog id="scan-viewer" aria-labelledby="scan-title"><div class="section-title"><h2 id="scan-title">原圖檢視</h2><div class="tools"><button id="scan-size">放大原圖</button><button id="scan-close">關閉</button></div></div><p class="muted">放大後可左右、上下捲動查看。</p><div id="scan-scroll"><img id="scan-image" alt="題目或解析掃描原圖"></div></dialog>
+<input id="backup-input" type="file" accept=".json,application/json" hidden><input id="bank-input" type="file" accept=".json,application/json" hidden>
+<noscript>請啟用 JavaScript 以使用刷題功能。</noscript></body></html>

@@ -1,0 +1,2700 @@
+{
+  "id": "chapter3",
+  "title": "第3章 公開發行公司發行人與內部人之義務",
+  "questions": [
+    {
+      "id": "q001",
+      "number": "1",
+      "stem": "原書第 1 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 3,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q001-question-1.jpg",
+          "width": 1449,
+          "height": 287
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q001-explanation-1.jpg",
+          "width": 1384,
+          "height": 374
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 1
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q002",
+      "number": "2",
+      "stem": "原書第 2 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 1,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q002-question-1.jpg",
+          "width": 1453,
+          "height": 211
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q002-explanation-1.jpg",
+          "width": 1387,
+          "height": 369
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 1
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q003",
+      "number": "3",
+      "stem": "原書第 3 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 2,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q003-question-1.jpg",
+          "width": 1458,
+          "height": 286
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q003-explanation-1.jpg",
+          "width": 1392,
+          "height": 352
+        },
+        {
+          "src": "assets/questions/chapter3/q003-explanation-2.jpg",
+          "width": 1490,
+          "height": 210
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 1
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q004",
+      "number": "4",
+      "stem": "原書第 4 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 3,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q004-question-1.jpg",
+          "width": 1496,
+          "height": 347
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q004-explanation-1.jpg",
+          "width": 1485,
+          "height": 228
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 2
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q005",
+      "number": "5",
+      "stem": "原書第 5 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 3,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q005-question-1.jpg",
+          "width": 1500,
+          "height": 266
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q005-explanation-1.jpg",
+          "width": 1483,
+          "height": 291
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 2
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q006",
+      "number": "6",
+      "stem": "原書第 6 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 3,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q006-question-1.jpg",
+          "width": 1491,
+          "height": 272
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q006-explanation-1.jpg",
+          "width": 1487,
+          "height": 294
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 2
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q007",
+      "number": "7",
+      "stem": "原書第 7 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 0,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q007-question-1.jpg",
+          "width": 1500,
+          "height": 258
+        },
+        {
+          "src": "assets/questions/chapter3/q007-question-2.jpg",
+          "width": 1297,
+          "height": 73
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q007-explanation-1.jpg",
+          "width": 1298,
+          "height": 371
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 2
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q008",
+      "number": "8",
+      "stem": "原書第 8 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 0,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q008-question-1.jpg",
+          "width": 1363,
+          "height": 480
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q008-explanation-1.jpg",
+          "width": 1316,
+          "height": 298
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 3
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q009",
+      "number": "9",
+      "stem": "原書第 9 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 0,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q009-question-1.jpg",
+          "width": 1331,
+          "height": 209
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q009-explanation-1.jpg",
+          "width": 1350,
+          "height": 646
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 3
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q010",
+      "number": "10",
+      "stem": "原書第 10 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 2,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q010-question-1.jpg",
+          "width": 1367,
+          "height": 194
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q010-explanation-1.jpg",
+          "width": 1474,
+          "height": 237
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 3
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q011",
+      "number": "11",
+      "stem": "原書第 11 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 1,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q011-question-1.jpg",
+          "width": 1484,
+          "height": 415
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q011-explanation-1.jpg",
+          "width": 1480,
+          "height": 629
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 4
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q012",
+      "number": "12",
+      "stem": "原書第 12 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 3,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q012-question-1.jpg",
+          "width": 1500,
+          "height": 203
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q012-explanation-1.jpg",
+          "width": 1486,
+          "height": 158
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 4
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q013",
+      "number": "13",
+      "stem": "原書第 13 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 1,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q013-question-1.jpg",
+          "width": 1498,
+          "height": 213
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q013-explanation-1.jpg",
+          "width": 1494,
+          "height": 160
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 4
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q014",
+      "number": "14",
+      "stem": "原書第 14 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 0,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q014-question-1.jpg",
+          "width": 1500,
+          "height": 228
+        },
+        {
+          "src": "assets/questions/chapter3/q014-question-2.jpg",
+          "width": 1329,
+          "height": 436
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q014-explanation-1.jpg",
+          "width": 1327,
+          "height": 226
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 4
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q015",
+      "number": "15",
+      "stem": "原書第 15 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 3,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q015-question-1.jpg",
+          "width": 1364,
+          "height": 278
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q015-explanation-1.jpg",
+          "width": 1334,
+          "height": 226
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 5
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q016",
+      "number": "16",
+      "stem": "原書第 16 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 2,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q016-question-1.jpg",
+          "width": 1346,
+          "height": 136
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q016-explanation-1.jpg",
+          "width": 1342,
+          "height": 291
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 5
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q017",
+      "number": "17",
+      "stem": "原書第 17 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 2,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q017-question-1.jpg",
+          "width": 1379,
+          "height": 344
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q017-explanation-1.jpg",
+          "width": 1354,
+          "height": 313
+        },
+        {
+          "src": "assets/questions/chapter3/q017-explanation-2.jpg",
+          "width": 1500,
+          "height": 282
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 5
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q018",
+      "number": "18",
+      "stem": "原書第 18 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 3,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q018-question-1.jpg",
+          "width": 1500,
+          "height": 474
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q018-explanation-1.jpg",
+          "width": 1500,
+          "height": 286
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 6
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q019",
+      "number": "19",
+      "stem": "原書第 19 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 3,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q019-question-1.jpg",
+          "width": 1500,
+          "height": 321
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q019-explanation-1.jpg",
+          "width": 1500,
+          "height": 213
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 6
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q020",
+      "number": "20",
+      "stem": "原書第 20 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 2,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q020-question-1.jpg",
+          "width": 1500,
+          "height": 194
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q020-explanation-1.jpg",
+          "width": 1500,
+          "height": 215
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 6
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q021",
+      "number": "21",
+      "stem": "原書第 21 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 2,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q021-question-1.jpg",
+          "width": 1500,
+          "height": 134
+        },
+        {
+          "src": "assets/questions/chapter3/q021-question-2.jpg",
+          "width": 1317,
+          "height": 156
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q021-explanation-1.jpg",
+          "width": 1309,
+          "height": 392
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 6
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q022",
+      "number": "22",
+      "stem": "原書第 22 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 1,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q022-question-1.jpg",
+          "width": 1312,
+          "height": 283
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q022-explanation-1.jpg",
+          "width": 1304,
+          "height": 298
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 7
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q023",
+      "number": "23",
+      "stem": "原書第 23 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 1,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q023-question-1.jpg",
+          "width": 1311,
+          "height": 209
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q023-explanation-1.jpg",
+          "width": 1304,
+          "height": 288
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 7
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q024",
+      "number": "24",
+      "stem": "原書第 24 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 2,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q024-question-1.jpg",
+          "width": 1340,
+          "height": 338
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q024-explanation-1.jpg",
+          "width": 1313,
+          "height": 388
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 7
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q025",
+      "number": "25",
+      "stem": "原書第 25 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 1,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q025-question-1.jpg",
+          "width": 1500,
+          "height": 209
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q025-explanation-1.jpg",
+          "width": 1500,
+          "height": 362
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 8
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q026",
+      "number": "26",
+      "stem": "原書第 26 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 3,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q026-question-1.jpg",
+          "width": 1500,
+          "height": 204
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q026-explanation-1.jpg",
+          "width": 1500,
+          "height": 290
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 8
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q027",
+      "number": "27",
+      "stem": "原書第 27 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 1,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q027-question-1.jpg",
+          "width": 1500,
+          "height": 264
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q027-explanation-1.jpg",
+          "width": 1500,
+          "height": 153
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 8
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q028",
+      "number": "28",
+      "stem": "原書第 28 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 3,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q028-question-1.jpg",
+          "width": 1500,
+          "height": 329
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q028-explanation-1.jpg",
+          "width": 1500,
+          "height": 315
+        },
+        {
+          "src": "assets/questions/chapter3/q028-explanation-2.jpg",
+          "width": 1363,
+          "height": 554
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 8
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q029",
+      "number": "29",
+      "stem": "原書第 29 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 3,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q029-question-1.jpg",
+          "width": 1401,
+          "height": 285
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q029-explanation-1.jpg",
+          "width": 1379,
+          "height": 302
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 9
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q030",
+      "number": "30",
+      "stem": "原書第 30 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 3,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q030-question-1.jpg",
+          "width": 1396,
+          "height": 280
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q030-explanation-1.jpg",
+          "width": 1398,
+          "height": 160
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 9
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q031",
+      "number": "31",
+      "stem": "原書第 31 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 1,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q031-question-1.jpg",
+          "width": 1412,
+          "height": 218
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q031-explanation-1.jpg",
+          "width": 1390,
+          "height": 96
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 9
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q032",
+      "number": "32",
+      "stem": "原書第 32 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 1,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q032-question-1.jpg",
+          "width": 1455,
+          "height": 295
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q032-explanation-1.jpg",
+          "width": 1484,
+          "height": 132
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 9
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q033",
+      "number": "33",
+      "stem": "原書第 33 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 1,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q033-question-1.jpg",
+          "width": 1500,
+          "height": 207
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q033-explanation-1.jpg",
+          "width": 1497,
+          "height": 161
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 10
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q034",
+      "number": "34",
+      "stem": "原書第 34 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 1,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q034-question-1.jpg",
+          "width": 1500,
+          "height": 473
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q034-explanation-1.jpg",
+          "width": 1469,
+          "height": 89
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 10
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q035",
+      "number": "35",
+      "stem": "原書第 35 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 1,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q035-question-1.jpg",
+          "width": 1500,
+          "height": 206
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q035-explanation-1.jpg",
+          "width": 1468,
+          "height": 86
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 10
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q036",
+      "number": "36",
+      "stem": "原書第 36 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 0,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q036-question-1.jpg",
+          "width": 1493,
+          "height": 145
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q036-explanation-1.jpg",
+          "width": 1465,
+          "height": 83
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 10
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q037",
+      "number": "37",
+      "stem": "原書第 37 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 3,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q037-question-1.jpg",
+          "width": 1500,
+          "height": 274
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q037-explanation-1.jpg",
+          "width": 1484,
+          "height": 315
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 10
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q038",
+      "number": "38",
+      "stem": "原書第 38 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 2,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q038-question-1.jpg",
+          "width": 1311,
+          "height": 149
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q038-explanation-1.jpg",
+          "width": 1285,
+          "height": 88
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 11
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q039",
+      "number": "39",
+      "stem": "原書第 39 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 3,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q039-question-1.jpg",
+          "width": 1315,
+          "height": 146
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q039-explanation-1.jpg",
+          "width": 1286,
+          "height": 88
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 11
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q040",
+      "number": "40",
+      "stem": "原書第 40 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 2,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q040-question-1.jpg",
+          "width": 1315,
+          "height": 348
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q040-explanation-1.jpg",
+          "width": 1311,
+          "height": 162
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 11
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q041",
+      "number": "41",
+      "stem": "原書第 41 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 0,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q041-question-1.jpg",
+          "width": 1328,
+          "height": 486
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q041-explanation-1.jpg",
+          "width": 1331,
+          "height": 367
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 11
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q042",
+      "number": "42",
+      "stem": "原書第 42 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 0,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q042-question-1.jpg",
+          "width": 1370,
+          "height": 212
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q042-explanation-1.jpg",
+          "width": 1318,
+          "height": 148
+        },
+        {
+          "src": "assets/questions/chapter3/q042-explanation-2.jpg",
+          "width": 1500,
+          "height": 139
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 11
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q043",
+      "number": "43",
+      "stem": "原書第 43 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 1,
+      "explanation": "原書解析如下。本題解析參照上題，已附上上題解析供對照。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q043-question-1.jpg",
+          "width": 1500,
+          "height": 333
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q043-explanation-1.jpg",
+          "width": 1500,
+          "height": 89
+        },
+        {
+          "src": "assets/questions/chapter3/q043-explanation-2.jpg",
+          "width": 1318,
+          "height": 148
+        },
+        {
+          "src": "assets/questions/chapter3/q043-explanation-3.jpg",
+          "width": 1500,
+          "height": 139
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 12
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q044",
+      "number": "44",
+      "stem": "原書第 44 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 2,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q044-question-1.jpg",
+          "width": 1500,
+          "height": 270
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q044-explanation-1.jpg",
+          "width": 1500,
+          "height": 353
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 12
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q045",
+      "number": "45",
+      "stem": "原書第 45 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 3,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q045-question-1.jpg",
+          "width": 1500,
+          "height": 263
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q045-explanation-1.jpg",
+          "width": 1500,
+          "height": 548
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 12
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q046",
+      "number": "46",
+      "stem": "原書第 46 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 3,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q046-question-1.jpg",
+          "width": 1500,
+          "height": 137
+        },
+        {
+          "src": "assets/questions/chapter3/q046-question-2.jpg",
+          "width": 1377,
+          "height": 236
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q046-explanation-1.jpg",
+          "width": 1349,
+          "height": 328
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 12
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q047",
+      "number": "47",
+      "stem": "原書第 47 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 1,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q047-question-1.jpg",
+          "width": 1405,
+          "height": 210
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q047-explanation-1.jpg",
+          "width": 1346,
+          "height": 92
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 13
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q048",
+      "number": "48",
+      "stem": "原書第 48 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 1,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q048-question-1.jpg",
+          "width": 1402,
+          "height": 210
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q048-explanation-1.jpg",
+          "width": 1343,
+          "height": 92
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 13
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q049",
+      "number": "49",
+      "stem": "原書第 49 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 3,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q049-question-1.jpg",
+          "width": 1401,
+          "height": 209
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q049-explanation-1.jpg",
+          "width": 1364,
+          "height": 365
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 13
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q050",
+      "number": "50",
+      "stem": "原書第 50 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 2,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q050-question-1.jpg",
+          "width": 1401,
+          "height": 410
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q050-explanation-1.jpg",
+          "width": 1366,
+          "height": 290
+        },
+        {
+          "src": "assets/questions/chapter3/q050-explanation-2.jpg",
+          "width": 1488,
+          "height": 476
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 13
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q051",
+      "number": "51",
+      "stem": "原書第 51 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 0,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q051-question-1.jpg",
+          "width": 1494,
+          "height": 136
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q051-explanation-1.jpg",
+          "width": 1468,
+          "height": 92
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 14
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q052",
+      "number": "52",
+      "stem": "原書第 52 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 2,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q052-question-1.jpg",
+          "width": 1500,
+          "height": 200
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q052-explanation-1.jpg",
+          "width": 1468,
+          "height": 91
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 14
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q053",
+      "number": "53",
+      "stem": "原書第 53 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 3,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q053-question-1.jpg",
+          "width": 1499,
+          "height": 271
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q053-explanation-1.jpg",
+          "width": 1491,
+          "height": 157
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 14
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q054",
+      "number": "54",
+      "stem": "原書第 54 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 2,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q054-question-1.jpg",
+          "width": 1500,
+          "height": 270
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q054-explanation-1.jpg",
+          "width": 1476,
+          "height": 92
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 14
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q055",
+      "number": "55",
+      "stem": "原書第 55 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 3,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q055-question-1.jpg",
+          "width": 1499,
+          "height": 214
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q055-explanation-1.jpg",
+          "width": 1497,
+          "height": 195
+        }
+      ],
+      "source": {
+        "file": "第三章1-55.pdf",
+        "page": 14
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q056",
+      "number": "56",
+      "stem": "原書第 56 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 1,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q056-question-1.jpg",
+          "width": 1356,
+          "height": 271
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q056-explanation-1.jpg",
+          "width": 1345,
+          "height": 627
+        }
+      ],
+      "source": {
+        "file": "第三章-82.pdf",
+        "page": 1
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q057",
+      "number": "57",
+      "stem": "原書第 57 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 3,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q057-question-1.jpg",
+          "width": 1365,
+          "height": 279
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q057-explanation-1.jpg",
+          "width": 1362,
+          "height": 161
+        }
+      ],
+      "source": {
+        "file": "第三章-82.pdf",
+        "page": 1
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q058",
+      "number": "58",
+      "stem": "原書第 58 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 2,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q058-question-1.jpg",
+          "width": 1405,
+          "height": 353
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q058-explanation-1.jpg",
+          "width": 1388,
+          "height": 170
+        }
+      ],
+      "source": {
+        "file": "第三章-82.pdf",
+        "page": 1
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q059",
+      "number": "59",
+      "stem": "原書第 59 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 2,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q059-question-1.jpg",
+          "width": 1431,
+          "height": 401
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q059-explanation-1.jpg",
+          "width": 1500,
+          "height": 201
+        }
+      ],
+      "source": {
+        "file": "第三章-82.pdf",
+        "page": 1
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q060",
+      "number": "60",
+      "stem": "原書第 60 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 3,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q060-question-1.jpg",
+          "width": 1500,
+          "height": 394
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q060-explanation-1.jpg",
+          "width": 1500,
+          "height": 220
+        }
+      ],
+      "source": {
+        "file": "第三章-82.pdf",
+        "page": 2
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q061",
+      "number": "61",
+      "stem": "原書第 61 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 1,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q061-question-1.jpg",
+          "width": 1500,
+          "height": 197
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q061-explanation-1.jpg",
+          "width": 1500,
+          "height": 152
+        }
+      ],
+      "source": {
+        "file": "第三章-82.pdf",
+        "page": 2
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q062",
+      "number": "62",
+      "stem": "原書第 62 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 1,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q062-question-1.jpg",
+          "width": 1500,
+          "height": 193
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q062-explanation-1.jpg",
+          "width": 1500,
+          "height": 150
+        }
+      ],
+      "source": {
+        "file": "第三章-82.pdf",
+        "page": 2
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q063",
+      "number": "63",
+      "stem": "原書第 63 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 0,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q063-question-1.jpg",
+          "width": 1500,
+          "height": 390
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q063-explanation-1.jpg",
+          "width": 1500,
+          "height": 204
+        },
+        {
+          "src": "assets/questions/chapter3/q063-explanation-2.jpg",
+          "width": 1334,
+          "height": 237
+        }
+      ],
+      "source": {
+        "file": "第三章-82.pdf",
+        "page": 2
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q064",
+      "number": "64",
+      "stem": "原書第 64 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 3,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q064-question-1.jpg",
+          "width": 1344,
+          "height": 216
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q064-explanation-1.jpg",
+          "width": 1340,
+          "height": 165
+        }
+      ],
+      "source": {
+        "file": "第三章-82.pdf",
+        "page": 3
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q065",
+      "number": "65",
+      "stem": "原書第 65 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 3,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q065-question-1.jpg",
+          "width": 1350,
+          "height": 146
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q065-explanation-1.jpg",
+          "width": 1325,
+          "height": 95
+        }
+      ],
+      "source": {
+        "file": "第三章-82.pdf",
+        "page": 3
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q066",
+      "number": "66",
+      "stem": "原書第 66 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 0,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q066-question-1.jpg",
+          "width": 1382,
+          "height": 220
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q066-explanation-1.jpg",
+          "width": 1352,
+          "height": 163
+        }
+      ],
+      "source": {
+        "file": "第三章-82.pdf",
+        "page": 3
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q067",
+      "number": "67",
+      "stem": "原書第 67 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 2,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q067-question-1.jpg",
+          "width": 1368,
+          "height": 426
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q067-explanation-1.jpg",
+          "width": 1345,
+          "height": 95
+        }
+      ],
+      "source": {
+        "file": "第三章-82.pdf",
+        "page": 3
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q068",
+      "number": "68",
+      "stem": "原書第 68 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 1,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q068-question-1.jpg",
+          "width": 1429,
+          "height": 292
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q068-explanation-1.jpg",
+          "width": 1355,
+          "height": 156
+        }
+      ],
+      "source": {
+        "file": "第三章-82.pdf",
+        "page": 3
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q069",
+      "number": "69",
+      "stem": "原書第 69 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 1,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q069-question-1.jpg",
+          "width": 1500,
+          "height": 212
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q069-explanation-1.jpg",
+          "width": 1499,
+          "height": 95
+        }
+      ],
+      "source": {
+        "file": "第三章-82.pdf",
+        "page": 4
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q070",
+      "number": "70",
+      "stem": "原書第 70 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 3,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q070-question-1.jpg",
+          "width": 1500,
+          "height": 272
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q070-explanation-1.jpg",
+          "width": 1500,
+          "height": 158
+        }
+      ],
+      "source": {
+        "file": "第三章-82.pdf",
+        "page": 4
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q071",
+      "number": "71",
+      "stem": "原書第 71 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 0,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q071-question-1.jpg",
+          "width": 1500,
+          "height": 269
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q071-explanation-1.jpg",
+          "width": 1500,
+          "height": 153
+        }
+      ],
+      "source": {
+        "file": "第三章-82.pdf",
+        "page": 4
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q072",
+      "number": "72",
+      "stem": "原書第 72 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 2,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q072-question-1.jpg",
+          "width": 1500,
+          "height": 323
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q072-explanation-1.jpg",
+          "width": 1493,
+          "height": 154
+        }
+      ],
+      "source": {
+        "file": "第三章-82.pdf",
+        "page": 4
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q073",
+      "number": "73",
+      "stem": "原書第 73 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 0,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q073-question-1.jpg",
+          "width": 1500,
+          "height": 474
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q073-explanation-1.jpg",
+          "width": 1359,
+          "height": 341
+        }
+      ],
+      "source": {
+        "file": "第三章-82.pdf",
+        "page": 4
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q074",
+      "number": "74",
+      "stem": "原書第 74 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 3,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q074-question-1.jpg",
+          "width": 1357,
+          "height": 209
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q074-explanation-1.jpg",
+          "width": 1340,
+          "height": 355
+        }
+      ],
+      "source": {
+        "file": "第三章-82.pdf",
+        "page": 5
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q075",
+      "number": "75",
+      "stem": "原書第 75 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 3,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q075-question-1.jpg",
+          "width": 1338,
+          "height": 269
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q075-explanation-1.jpg",
+          "width": 1321,
+          "height": 341
+        }
+      ],
+      "source": {
+        "file": "第三章-82.pdf",
+        "page": 5
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q076",
+      "number": "76",
+      "stem": "原書第 76 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 0,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q076-question-1.jpg",
+          "width": 1352,
+          "height": 401
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q076-explanation-1.jpg",
+          "width": 1305,
+          "height": 275
+        },
+        {
+          "src": "assets/questions/chapter3/q076-explanation-2.jpg",
+          "width": 1500,
+          "height": 284
+        }
+      ],
+      "source": {
+        "file": "第三章-82.pdf",
+        "page": 5
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q077",
+      "number": "77",
+      "stem": "原書第 77 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 3,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q077-question-1.jpg",
+          "width": 1500,
+          "height": 206
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q077-explanation-1.jpg",
+          "width": 1500,
+          "height": 222
+        }
+      ],
+      "source": {
+        "file": "第三章-82.pdf",
+        "page": 6
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q078",
+      "number": "78",
+      "stem": "原書第 78 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 3,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q078-question-1.jpg",
+          "width": 1500,
+          "height": 331
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q078-explanation-1.jpg",
+          "width": 1500,
+          "height": 355
+        }
+      ],
+      "source": {
+        "file": "第三章-82.pdf",
+        "page": 6
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q079",
+      "number": "79",
+      "stem": "原書第 79 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 3,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q079-question-1.jpg",
+          "width": 1500,
+          "height": 269
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q079-explanation-1.jpg",
+          "width": 1500,
+          "height": 490
+        }
+      ],
+      "source": {
+        "file": "第三章-82.pdf",
+        "page": 6
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q080",
+      "number": "80",
+      "stem": "原書第 80 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 0,
+      "explanation": "原書解析如下。本題解析參照上題，已附上上題解析供對照。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q080-question-1.jpg",
+          "width": 1500,
+          "height": 314
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q080-explanation-1.jpg",
+          "width": 1500,
+          "height": 83
+        },
+        {
+          "src": "assets/questions/chapter3/q080-explanation-2.jpg",
+          "width": 1500,
+          "height": 490
+        }
+      ],
+      "source": {
+        "file": "第三章-82.pdf",
+        "page": 7
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q081",
+      "number": "81",
+      "stem": "原書第 81 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 0,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q081-question-1.jpg",
+          "width": 1500,
+          "height": 219
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q081-explanation-1.jpg",
+          "width": 1500,
+          "height": 461
+        }
+      ],
+      "source": {
+        "file": "第三章-82.pdf",
+        "page": 7
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    },
+    {
+      "id": "q082",
+      "number": "82",
+      "stem": "原書第 82 題，請閱讀下方掃描題面及四個選項。",
+      "options": [
+        "選擇 (1)",
+        "選擇 (2)",
+        "選擇 (3)",
+        "選擇 (4)"
+      ],
+      "answer": 0,
+      "explanation": "原書解析如下。",
+      "questionImages": [
+        {
+          "src": "assets/questions/chapter3/q082-question-1.jpg",
+          "width": 1500,
+          "height": 539
+        }
+      ],
+      "explanationImages": [
+        {
+          "src": "assets/questions/chapter3/q082-explanation-1.jpg",
+          "width": 1500,
+          "height": 336
+        }
+      ],
+      "source": {
+        "file": "第三章-82.pdf",
+        "page": 7
+      },
+      "sourceNotice": "本題採原始掃描，文字可能受拍攝傾斜或頁邊裁切影響；內容與答案依原書，未另核對現行法規。"
+    }
+  ]
+}

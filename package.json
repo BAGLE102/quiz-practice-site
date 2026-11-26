@@ -1,0 +1,10 @@
+{
+  "name": "quiz-practice",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/core.test.js",
+    "check": "node --check assets/app.js && node --check assets/core.js"
+  }
+}
+
