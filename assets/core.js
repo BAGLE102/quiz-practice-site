@@ -1,4 +1,5 @@
 export const VERSION = 1;
+export const usesText = q => q.textVerified === true || !q.questionImages?.length;
 export function validateImages(value) {
   if(value == null)return [];
   if(!Array.isArray(value)||value.length>20)throw new Error('掃描圖片格式無效。');
@@ -16,8 +17,9 @@ export function validateBank(raw) {
     if (typeof q.stem !== 'string' || !q.stem.trim() || q.stem.length > 20000 || !Array.isArray(q.options) || q.options.length !== 4 || q.options.some(o => typeof o !== 'string' || !o.trim() || o.length > 10000) || !Number.isInteger(q.answer) || q.answer < 0 || q.answer > 3) throw new Error('每題需要題幹、四個選項與 0–3 的答案索引。');
     if (q.explanation != null && (typeof q.explanation !== 'string' || q.explanation.length > 30000)) throw new Error('解析格式無效。');
     if(q.source != null && (typeof q.source !== 'object' || Array.isArray(q.source))) throw new Error('來源格式無效。');
+    if(q.textVerified != null && typeof q.textVerified!=='boolean')throw new Error('文字校對標記格式無效。');
     const source = q.source || {};
-    return {id:q.id, number:String(q.number ?? q.id).slice(0,100), stem:q.stem, options:[...q.options], answer:q.answer, explanation:q.explanation || '', questionImages:validateImages(q.questionImages),explanationImages:validateImages(q.explanationImages),sourceNotice:String(q.sourceNotice||'').slice(0,500),source:{file:String(source.file || '').slice(0,300),page:Number.isInteger(source.page) && source.page > 0 ? source.page : null}, bankId:raw.id, bankTitle:raw.title};
+    return {id:q.id, number:String(q.number ?? q.id).slice(0,100), stem:q.stem, options:[...q.options], answer:q.answer, explanation:q.explanation || '', textVerified:q.textVerified===true,questionImages:validateImages(q.questionImages),explanationImages:validateImages(q.explanationImages),sourceNotice:String(q.sourceNotice||'').slice(0,500),source:{file:String(source.file || '').slice(0,300),page:Number.isInteger(source.page) && source.page > 0 ? source.page : null}, bankId:raw.id, bankTitle:raw.title};
   });
   return {id:raw.id,title:raw.title,questions};
 }
